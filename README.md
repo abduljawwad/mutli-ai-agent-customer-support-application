@@ -15,5 +15,5 @@ If the sentiment from the customer query is negative, the issue is escalated and
 
 ## Running this application
 
-This application runs in Google Colab. Please ensure to place `groq_api_key.txt` file with a valid API key in Google Drive under `My Drive` folder if you wish to run this app. Please click the `Open in Colab` button at the top in `mutli-ai-agent-customer-support-app.ipynb` file and run all the cells. Please make sure to change the query in the last cell to get different responses.
+This application runs in Google Colab. Please ensure to place `groq_api_key.txt` file with a valid API key (from https://console.groq.com/keys) in Google Drive under `My Drive` folder if you wish to run this app. Please click the `Open in Colab` button at the top in `mutli-ai-agent-customer-support-app.ipynb` file and run all the cells. Please make sure to change the query in the last cell to get different responses.
 
