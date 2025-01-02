@@ -13,3 +13,7 @@ If the sentiment from the customer query is negative, the issue is escalated and
 
 <img width="697" alt="image" src="https://github.com/user-attachments/assets/d4a8002b-8eca-4b12-9edc-f379b4019b1b" />
 
+## Running this application
+
+Please ensure to place `groq_api_key.txt` file with a valid API key in Google Drive under `My Drive` folder if you wish to run this app
+
